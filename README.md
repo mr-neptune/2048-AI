@@ -1,1 +1,1 @@
-# 2048 Auto Project
+# 2048 Auto
